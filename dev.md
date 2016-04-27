@@ -1,2 +1,2 @@
 this is dev
-this is conflict in master
+this is conflict in dev
